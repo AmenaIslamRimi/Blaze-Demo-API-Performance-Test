@@ -1,1 +1,1 @@
-# Random-User-API-Performance-Test
+# Blaze-Demo-API-Performance-Test
