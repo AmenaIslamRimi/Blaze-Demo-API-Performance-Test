@@ -35,5 +35,7 @@ Capacity analysis was conducted to establish the maximum number of requests the 
 [Stress Test Report](https://docs.google.com/spreadsheets/d/1zs3X1GruiEEEtWEgHERFnL91Eag3_byHORlrZSYNCMw/edit?gid=0#gid=0)
 # Results 
 ## Screenshots
-![Load Test](https://i.postimg.cc/8PF7KVQD/load-test-report.png) <br />
+### Load Test
+![Load Test](https://i.postimg.cc/8PF7KVQD/load-test-report.png) 
+### Stress Test
 ![Stress Test](https://i.postimg.cc/d3gVPLPF/stress-test-report.png) 
